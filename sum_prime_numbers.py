@@ -1,10 +1,5 @@
 # Zadanie
 # https://github.com/daftcode/python_levelup_2018/blob/master/zadania_rekrutacyjne/Zadanie_2/Zadanie_2_polecenie.md
-# tested on .txt files
-# sample file content:
-# 1
-# 2 3
-# 4 5 6
 
 
 def find_prime_number():
