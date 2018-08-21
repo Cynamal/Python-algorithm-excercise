@@ -2,6 +2,7 @@ import glob
 
 # Zadanie
 # https://github.com/daftcode/python_levelup_2018/blob/master/zadania_rekrutacyjne/Zadanie_1/Zadanie_1_polecenie.md
+# tested on .txt files
 
 def iterate_over_files(path):
     files = glob.glob(path)
@@ -29,7 +30,8 @@ def summary(dict):
     return result
 
 
-def main(path):
+def main():
+    path = '' #path to directory
     dict = {}
     count = 0
     for f in iterate_over_files(path):

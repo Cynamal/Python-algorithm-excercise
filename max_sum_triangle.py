@@ -34,7 +34,8 @@ def find_max(arr):
 
 
 def main():
-    for file in iterate_over_files('/home/karolina/Pulpit/zadania_relrutacyjne/Triangles/*.txt'):
+    path = '' #path to directory
+    for file in iterate_over_files(path):
         print(find_max(read_file(file)))
 
 
