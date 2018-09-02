@@ -1,4 +1,4 @@
-from sum_prime_numbers import sum_prime_numbers
+from SumPrimeNumbers.sum_prime_numbers import sum_prime_numbers
 
 
 def test_sum_prime_numbers():
