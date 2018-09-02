@@ -5,4 +5,4 @@ Code solutions for job interview tasks:
 - sum n prime numbers,
 - find max path sum in triangle.
 
-Link to each task is inside .py file.
+Link to each task is inside solution file.
