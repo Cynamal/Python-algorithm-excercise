@@ -1,8 +1,8 @@
-import glob
-
-# Zadanie
+# Task
 # https://github.com/daftcode/python_levelup_2018/blob/master/zadania_rekrutacyjne/Zadanie_1/Zadanie_1_polecenie.md
 # tested on .txt files
+
+import glob
 
 def iterate_over_files(path):
     files = glob.glob(path)

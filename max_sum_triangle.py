@@ -1,4 +1,4 @@
-# Zadanie
+# Task
 # https://github.com/daftcode/python_levelup_2018/blob/master/zadania_rekrutacyjne/Zadanie_4/Zadanie_4_polecenie.md
 # tested on .txt files
 # sample file content:

@@ -1,4 +1,4 @@
-# Zadanie
+# Task
 # https://github.com/daftcode/python_levelup_2018/blob/master/zadania_rekrutacyjne/Zadanie_2/Zadanie_2_polecenie.md
 
 
